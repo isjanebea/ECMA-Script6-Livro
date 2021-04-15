@@ -22,6 +22,11 @@ for(var i = 0; i<= numeros.length; i++) {
     }
 }
 
+
+numeros.forEach() {
+  
+}
+\nFirstLine\n\t\\\SecondLine\nThirdLine
 // saída:
 // 0 é par
 // 1 é ímpar
